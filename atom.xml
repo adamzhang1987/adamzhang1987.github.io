@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Adam Zhang&#39;s Blog</title>
   
-  
+  <subtitle>Technology &amp; Life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://adamzhang1987.github.io/"/>

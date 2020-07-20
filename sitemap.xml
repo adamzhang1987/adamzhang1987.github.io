@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://adamzhang1987.github.io/about/index.html</loc>
+    
+    <lastmod>2020-07-17T09:32:55.640Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://adamzhang1987.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-07-17T09:32:47.669Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://adamzhang1987.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-07-17T09:31:25.313Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://adamzhang1987.github.io/2020/07/17/hello-world/</loc>
     
     <lastmod>2020-07-17T07:36:39.977Z</lastmod>
